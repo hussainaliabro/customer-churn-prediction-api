@@ -1,0 +1,10 @@
+# Trained models
+model/*.pkl
+model/*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
